@@ -1,0 +1,1 @@
+C:\Users\bossr\OneDrive\Documents\Programming\RustProgramming\bitwise_operation\target\debug\bitwise_operation.exe: C:\Users\bossr\OneDrive\Documents\Programming\RustProgramming\bitwise_operation\src\main.rs
