@@ -1,0 +1,1 @@
+C:\Users\bossr\OneDrive\Documents\Programming\RustProgramming\disjkters_algorithm\target\debug\disjkters_algorithm.exe: C:\Users\bossr\OneDrive\Documents\Programming\RustProgramming\disjkters_algorithm\src\main.rs
